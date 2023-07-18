@@ -1,0 +1,7 @@
+<suite name="Test Execution Demo Suits">
+    <test name="Facebook Login test">
+        <classes>
+            <class name="org.example.facebook.FacebookTest"></class>
+        </classes>
+    </test>
+</suite>
